@@ -74,9 +74,7 @@ missing_values <- aggr(ufo_data, prop=FALSE, numbers=TRUE)
 summary(missing_values) 
 
 # The number of records have no missing data content is 69528
-# The number of records have all missing data content is 196
-
-# The number of variables have all data variables missing is 0
+# The number of records have all missing data content (no variables) is 196
 
 # -------------------------------------------
 # Q8
